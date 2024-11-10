@@ -6,9 +6,9 @@ learning machine learning.
 """)
 
 st.sidebar.title("contact us")
-st.sidebar.text("""Sonu @ 11111
-Monu @ 22222
-Chintu @ 3333
+st.sidebar.text("""Sonu @ +9111111
+Monu @ +9122222
+Chintu @ +913333
 """)
 
 st.title("Sentiment Analysis Project")
